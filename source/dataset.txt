@@ -1,0 +1,5 @@
+John loves programming in Scala.
+Spark NLP is a great library for Natural Language Processing tasks.
+The quick brown fox jumps over the lazy dog.
+Data science is an interdisciplinary field that uses scientific methods.
+AI technologies are changing the world.
